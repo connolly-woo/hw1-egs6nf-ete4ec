@@ -1,9 +1,8 @@
 # Homework 1 - Responding to Change
 
 ## Authors
-1) Name, netid, [GitHub profile name]
+1) Connolly Woo, egs6nf, [connolly-woo]
 2) Name, netid, [GitHub profile name]
-3) Name, netid, [GitHub profile name]
 
 ## To Run
 
